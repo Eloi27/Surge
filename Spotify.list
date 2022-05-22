@@ -1,4 +1,3 @@
-  - PROCESS-NAME,com.spotify.music,Spotify
   - DOMIN-SUFFIX,audio-ak-spotify-com.akamaized.net,Spotify
   - DOMIN-SUFFIX,heads4-ak-spotify-com.akamaized.net,Spotify
   - DOMIN-SUFFIX,pscdn.co,Spotify
@@ -15,3 +14,4 @@
   - DOMIN-SUFFIX,spotifyjobs.com,Spotify
   - DOMIN-KEYWORD,spotify.com,Spotify
   - IP-CIDR,35.186.224.47/32,no-resolve,Spotify
+  - PROCESS-NAME,com.spotify.music,Spotify
