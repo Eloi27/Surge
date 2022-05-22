@@ -14,4 +14,3 @@
   - DOMIN-SUFFIX,spotifyjobs.com,Spotify
   - DOMIN-KEYWORD,spotify.com,Spotify
   - IP-CIDR,35.186.224.47/32,no-resolve,Spotify
-  - PROCESS-NAME,com.spotify.music,Spotify
