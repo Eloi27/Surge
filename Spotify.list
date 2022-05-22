@@ -13,5 +13,5 @@ DOMAIN-SUFFIX,spotifycodes.com,Spotify
 DOMAIN-SUFFIX,spotifyforbrands.com,Spotify
 DOMAIN-SUFFIX,spotifyjobs.com,Spotify
 DOMAIN-KEYWORD,spotify.com,Spotify
-IP-CIDR,35.186.224.47/32,no-resolve,Spotify
+IP-CIDR,35.186.224.47/32,Spotify
 PROCESS-NAME,com.spotify.music
