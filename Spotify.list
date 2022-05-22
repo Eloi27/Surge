@@ -1,17 +1,17 @@
   - PROCESS-NAME,com.spotify.music,Spotify
-  - HOST-SUFFIX,audio-ak-spotify-com.akamaized.net,Spotify
-  - HOST-SUFFIX,heads4-ak-spotify-com.akamaized.net,Spotify
-  - HOST-SUFFIX,pscdn.co,Spotify
-  - HOST-SUFFIX,scdn.co,Spotify
-  - HOST-SUFFIX,spoti.fi,Spotify
-  - HOST-SUFFIX,spotify-com.akamaized.net,Spotify
-  - HOST-SUFFIX,spotify-everywhere.com,Spotify
-  - HOST-SUFFIX,spotify.design,Spotify
-  - HOST-SUFFIX,spotifycdn.com,Spotify
-  - HOST-SUFFIX,spotifycdn.net,Spotify
-  - HOST-SUFFIX,spotifycharts.com,Spotify
-  - HOST-SUFFIX,spotifycodes.com,Spotify
-  - HOST-SUFFIX,spotifyforbrands.com,Spotify
-  - HOST-SUFFIX,spotifyjobs.com,Spotify
-  - HOST-KEYWORD,spotify.com,Spotify
+  - DOMIN-SUFFIX,audio-ak-spotify-com.akamaized.net,Spotify
+  - DOMIN-SUFFIX,heads4-ak-spotify-com.akamaized.net,Spotify
+  - DOMIN-SUFFIX,pscdn.co,Spotify
+  - DOMIN-SUFFIX,scdn.co,Spotify
+  - DOMIN-SUFFIX,spoti.fi,Spotify
+  - DOMIN-SUFFIX,spotify-com.akamaized.net,Spotify
+  - DOMIN-SUFFIX,spotify-everywhere.com,Spotify
+  - DOMIN-SUFFIX,spotify.design,Spotify
+  - DOMIN-SUFFIX,spotifycdn.com,Spotify
+  - DOMIN-SUFFIX,spotifycdn.net,Spotify
+  - DOMIN-SUFFIX,spotifycharts.com,Spotify
+  - DOMIN-SUFFIX,spotifycodes.com,Spotify
+  - DOMIN-SUFFIX,spotifyforbrands.com,Spotify
+  - DOMIN-SUFFIX,spotifyjobs.com,Spotify
+  - DOMIN-KEYWORD,spotify.com,Spotify
   - IP-CIDR,35.186.224.47/32,no-resolve,Spotify
